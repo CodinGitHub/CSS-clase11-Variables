@@ -1,0 +1,32 @@
+body{
+    background-color: #ECE2D0;
+    color: #582c4d;
+}
+.box-one{
+    background-color: #bfb5af;
+}
+.box-one:hover{
+    color: #ECE2D0;
+}
+
+.box-two{
+    background-color: A26769;
+}
+.box-two:hover{
+    color: #ECE2D0;
+}
+
+.box-three{
+    background-color: A26769;
+}
+.box-three:hover{
+    background-color: #A26769;
+    color: #582c4d;
+}
+
+.box-four{
+    background-color: #bfb5af;
+}
+.box-four:hover{
+    color: #bfb5af;
+}
